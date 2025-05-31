@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661228570736",
+    "project_id": "aplikasi-perdana-f39d1",
+    "storage_bucket": "aplikasi-perdana-f39d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661228570736:android:905d0c23f3ce671e150cb5",
+        "android_client_info": {
+          "package_name": "com.cekroda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABeZQY1CjQmaibfd8w7UiMD_E2HotX0GI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
